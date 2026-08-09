@@ -1,0 +1,10 @@
+{
+  "description": "Provides comprehensive diagnostic services and health checkup bookings for patients seeking reliable medical testing and reports online.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
